@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="us">us</string>
+    <string name="eu">eu</string>
+    <string name="gt">gt</string>
+    <string name="ca">ca</string>
+    <string name="gb">gb</string>
+</resources>
